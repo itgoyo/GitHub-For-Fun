@@ -19,7 +19,7 @@ Unix下面类终端的文件管理工具，可以使用**Vim**快捷键
 
 ### Poker键盘在Mac下面的使用
 
-[Poker-for-Mac](https://github.com/itgoyo/Poker-for-Mac)
+[https://github.com/itgoyo/Poker-for-Mac](https://github.com/itgoyo/Poker-for-Mac)
 
 本人的键位修改（方向键类Vim修改）还有输入法的快捷切换
 

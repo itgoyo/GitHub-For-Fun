@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190520094534.png)
+![](https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190520095345.png)
 # Github-For-Fun
 Github上有趣的项目视频教程
 
